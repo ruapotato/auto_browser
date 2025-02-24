@@ -109,7 +109,7 @@ deep-researcher/
 
 ## License
 
-MIT
+GPL3
 
 ## Disclaimer
 
